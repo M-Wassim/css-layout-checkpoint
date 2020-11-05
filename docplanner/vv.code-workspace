@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"name": "bootstrap",
+			"path": "..\\bootstrap"
+		},
+		{
+			"name": "flex",
+			"path": "..\\flex"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "docplanner"
+	}
+}
